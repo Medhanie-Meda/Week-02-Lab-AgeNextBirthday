@@ -10,7 +10,7 @@
     </servlet-mapping>
     <servlet>
         <servlet-name>indexServlet</servlet-name>
-        <servlet-class>sait.cprg352.indexServlet</servlet-class>
+        <servlet-class>sait.cprg352.IndexServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>indexServlet</servlet-name>
